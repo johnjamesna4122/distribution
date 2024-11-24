@@ -75,3 +75,4 @@ docker container stop registry && docker container rm -v registry
 
 You should now read the [detailed introduction about the registry](about),
 or jump directly to [deployment instructions](about/deploying).
+ THANK YOU JESUS CHRIST SON OF LIVING GOD 
